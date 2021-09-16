@@ -1,0 +1,1 @@
+/* this is a JAVASCRIPT file of a web page */
